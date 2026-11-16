@@ -1,0 +1,16 @@
+{
+  "name": "devtoolbox",
+  "version": "1.0.0",
+  "description": "JSON, Base64, JWT, hashes, regex, timestamps, diff and UUIDs in one dependency-free page that runs entirely in the browser.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "Beamlak (lasmeldas)",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
